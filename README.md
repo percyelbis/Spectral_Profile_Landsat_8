@@ -3,7 +3,7 @@
 
 
 ## Resultados
-* Abrir en Earth Engine Apps[<img src="https://colab.research.google.com/img/colab_favicon.ico" width ="30" hight = "40" alt="Earth Engine Apps"/>](https://torchi_12.users.earthengine.app/view/spectralprofile)
+* Abrir en Earth Engine Apps[<img src="https://raw.githubusercontent.com/percyelbis/Spectral_Profile_Landsat_8/master/google-earth-engine.ico" width ="30" hight = "40" alt="Earth Engine Apps"/>](https://torchi_12.users.earthengine.app/view/spectralprofile)
 ## Autor
 
 * **Percy Elbis Colque**
